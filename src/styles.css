@@ -21,8 +21,8 @@ button:hover {
   cursor: pointer;
 }
 
-li {
-  margin-right: 1px;
+.logo {
+  margin-right: 10px;
 }
 
 .input-area {
